@@ -39,6 +39,7 @@ namespace CoreTest
             app.UseHttpsRedirection();
 
             app.UseRouting();
+            //test
 
             app.UseAuthorization();
 
